@@ -13,18 +13,6 @@ okzmm
                 "url": "https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1104339130_b350000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyMCAyOjQ1OjQ5IFBNJmhhc2hfdmFsdWU9QkpsMnhmbUxwU0dKTFcrZlBWenFxZz09JnZhbGlkbWludXRlcz0xJmlkPTU%3D"
             },
             {
-                "id": "8",
-                "title": "CHANNEL - 7",
-                "crover": "http://victorceucung.com/mmlive/images/channel/68671_43266_3906634_ico.png",
-                "url": "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
-            },
-            {
-                "id": "9",
-                "title": "MRTV - 4",
-                "crover": "http://victorceucung.com/mmlive/images/channel/18585_39706_3906628_ico.png",
-                "url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
-            },
-            {
                 "id": "10",
                 "title": "PPTV",
                 "crover": "http://victorceucung.com/mmlive/images/channel/63935_hd-pptv.png",
